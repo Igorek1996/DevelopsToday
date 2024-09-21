@@ -33,3 +33,8 @@ npm run build
 ```sh
 npm run lint
 ```
+### Libraries used in project 
+
+```sh
+axios
+```
