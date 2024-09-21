@@ -35,6 +35,8 @@ npm run lint
 ```
 ### Libraries used in project 
 
-```sh
 axios
+
+```sh
+npm install axios
 ```
